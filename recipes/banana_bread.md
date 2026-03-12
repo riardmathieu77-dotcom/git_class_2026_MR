@@ -2,7 +2,7 @@
 # Banana Bread Recipe
 
 ![.](recipes/banana_bread.jpg)
-<img src="recipes/banana.png" width="55"/>
+<img src="recipes/banana.png" width="22"/>
 
 Source:  [here](https://www.foodista.com/recipe/DL74C8XJ/banana-bread)
 # Ingrédients :
