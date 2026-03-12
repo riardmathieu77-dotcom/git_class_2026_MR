@@ -1,8 +1,12 @@
 
 # Banana Bread Recipe
+
+![.](recipes/banana_bread.jpg)
+![.](recipes/banana.png)
 Source:  [here](https://www.foodista.com/recipe/DL74C8XJ/banana-bread)
 # Ingrédients :
 
+**Main:**      
 - 1 cup + 2 Tablespoons all-purpose flour
 - 2 Tablespoons cornstarch
 - 1 teaspoon ground cinnamon
