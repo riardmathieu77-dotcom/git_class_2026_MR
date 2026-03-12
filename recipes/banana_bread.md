@@ -2,7 +2,7 @@
 # Banana Bread Recipe
 
 ![.](recipes/banana_bread.jpg)
-<img src="recipes/banana.png" width="22"/>
+
 
 Source:  [here](https://www.foodista.com/recipe/DL74C8XJ/banana-bread)
 # Ingrédients :
@@ -19,30 +19,30 @@ Source:  [here](https://www.foodista.com/recipe/DL74C8XJ/banana-bread)
 - ½ teaspoon salt
 - 6 Tablespoons (¾ stick) unsalted butter, very soft
 - ¾ cup + 2 Tablespoons sugar
-<img src="recipes/banana.png" width="55"/>
+
 **Optional mix-ins:**   
 - 1 cup walnuts, lightly toasted and coarsely chopped
 - 1¾ cups (about 8 oz.) dates, pitted and coarsely chopped
-<img src="recipes/banana.png" width="55"/>
+
 **Topping**
 - 1 medium banana
 - 2 Tablespoons sugar
-<img src="recipes/banana.png" width="55"/>
+
 # Preparation: 
-<img src="recipes/banana.png" width="55"/>
+
 - 1 : Preheat the oven to 325º F. Lightly butter the bottom and sides of a 9-by-5-inch loaf pan.
-<img src="recipes/banana.png" width="55"/>
+
 - 2 : Mix flour, salt, baking powder, baking soda, corn starch, cinnamon and 
 sugar in a large bowl
-<img src="recipes/banana.png" width="55"/>
+
 - 3 :Add butter, eggs, and vanilla extract and mix until almost all the dry 
 ingredients are incorporated.
-<img src="recipes/banana.png" width="55"/>
+
 - 4 : Add mashed bananas and mix until everything is homogenous.
-<img src="recipes/banana.png" width="55"/>
+
 - 5 : Pour batter into the prepared pan and smooth the top with a spatula to level it.
-<img src="recipes/banana.png" width="55"/>
+
 - 6 : Slice the banana for the topping very thinly on a bias and place on top the batter in an appealing pattern. Sprinkle with the remaining sugar.
-<img src="recipes/banana.png" width="55"/>
+
 - 7 :Bake at 325º F for about an hour, or until the bread starts to pull away from the pan on the sides or a tooth pick test comes out clean.
 <img src="recipes/banana.png" width="55"/>
